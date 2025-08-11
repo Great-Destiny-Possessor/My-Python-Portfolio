@@ -28,6 +28,12 @@ header nav a:hover {
     padding: 20px 0;
 }
 
+#intro{
+    letter-spacing: 1px;
+    word-spacing: 5px;
+    font-weight: bold;
+    
+}
 .profile-pic {
     width: 150px;
     border-radius: 50%;
